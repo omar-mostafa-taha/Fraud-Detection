@@ -27,3 +27,6 @@ We implemented several classification models to predict fraudulent transactions:
 - XGBoost
 
 Each model was trained and evaluated to determine its performance.
+
+## Kaggle
+To view the notebook on kaggle please follow the link: https://www.kaggle.com/code/omarmostafataha/credit-card-fraud-detection
